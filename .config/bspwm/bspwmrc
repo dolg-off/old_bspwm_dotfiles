@@ -3,7 +3,6 @@
 #АВТОСТАРТ
 sxhkd &
 nm-applet &
-#blueman-tray &
 numlockx &
 nitrogen --restore &
 picom &
@@ -11,13 +10,6 @@ xsetroot -cursor_name left_ptr &
 #conky &
 firefox &
 dunst &
-#/home/user/.config/polybar/start.sh &
-#telegram-desktop &
-#steam &
-####py wal
-#wal -i /home/user/.wallpapers/23.png &
-#pywalfox update &
-#wal-telegram -g &
 polybar &
 #blueman-manager &
 
